@@ -65,8 +65,8 @@ class Converter_rasters_to_HDF5:
         
         
 #Pasta com os rasters
-caminho='/media/ruiz/Documentos/Pesquisas/Cicatrizes_Eduardo/Raster'
-arquivo_HDF5='/media/ruiz/Documentos/Pesquisas/Cicatrizes_Eduardo/dados7.hdf5'
+caminho='/media//Raster'
+arquivo_HDF5='/media/dados.hdf5'
 #foramto dos rasters
 formato = '.tif'    
 #Obter nomes dos rasters
